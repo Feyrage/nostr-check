@@ -1,3 +1,3 @@
-feyrage is trying to build a static page + custom NIP-05 check on nostr
-see u soon
-maybe 
+Feyrage is trying to build a static page + custom NIP-05 check on nostr.
+See u soon.
+
